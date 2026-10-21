@@ -8,4 +8,5 @@ Delete SS
 <img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/b4b745d2-a277-4ff5-8382-19a455b8361f" />
 
 Get All SS
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/bee07ed7-ac0c-492d-b959-9d5a15c524b1" />
 
